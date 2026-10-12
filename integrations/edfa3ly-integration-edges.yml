@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/edfa3ly/integrations
+- https://n8n.io/integrations/edfa3ly/
+- https://composio.dev/toolkits/edfa3ly
+- https://monid.ai/tools/edfa3ly
+checked:
+- https://composio.dev/toolkits/edfa3ly
+- https://monid.ai/tools/edfa3ly
+- https://n8n.io/integrations/edfa3ly/
+- https://zapier.com/apps/edfa3ly/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
